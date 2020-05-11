@@ -1,3 +1,2 @@
-int x
-x=x+3
-print(x)
+name = input('請輸入你的名稱：')
+print('歡迎', name)
