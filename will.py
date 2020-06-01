@@ -11,7 +11,7 @@ if old == 0:
 
 if old < 20:
     print("嗨！小朋友")
-    print("哥哥下麵給你吃歐!~")
+    print("哥哥下麵給你吃歐~")
     import sys
     sys.exit(0)
 
